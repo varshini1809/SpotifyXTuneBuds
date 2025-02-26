@@ -1,0 +1,7 @@
+openpyxl
+numpy 
+pandas 
+seaborn
+matplotlib.pyplot
+selenium
+Image
